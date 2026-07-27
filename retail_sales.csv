@@ -1,0 +1,16 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,CUSTOMER_NAME,PRODUCT_ID,PRODUCT_NAME,CATEGORY,QUANTITY,UNIT_PRICE,DISCOUNT,TOTAL_AMOUNT,PAYMENT_MODE,STORE_ID,STORE_NAME,CITY,STATE,SALES_PERSON
+1001,2026-07-01,C001,Ajay Kumar,P101,Laptop,Electronics,1,65000,5000,60000,Credit Card,S001,Hyderabad Central,Hyderabad,Telangana,Ravi
+1002,2026-07-01,C002,Priya Sharma,P102,Mobile,Electronics,2,25000,2000,48000,UPI,S001,Hyderabad Central,Hyderabad,Telangana,Anil
+1003,2026-07-02,C003,Rahul Verma,P103,Headphones,Accessories,3,2500,500,7000,Cash,S002,Bangalore Mall,Bangalore,Karnataka,Deepak
+1004,2026-07-02,C004,Sneha Reddy,P104,Keyboard,Accessories,2,1500,100,2900,Credit Card,S002,Bangalore Mall,Bangalore,Karnataka,Ramesh
+1005,2026-07-03,C005,Kiran Rao,P105,Monitor,Electronics,1,18000,1000,17000,Debit Card,S003,Chennai Plaza,Chennai,Tamil Nadu,Suresh
+1006,2026-07-03,C006,Anitha Das,P106,Mouse,Accessories,5,700,50,3450,UPI,S003,Chennai Plaza,Chennai,Tamil Nadu,Ravi
+1007,2026-07-04,C007,Meena Singh,P107,Printer,Electronics,1,12000,1000,11000,Credit Card,S004,Mumbai Store,Mumbai,Maharashtra,Ajith
+1008,2026-07-04,C008,Ramesh Gupta,P108,Tablet,Electronics,2,18000,2000,34000,Net Banking,S004,Mumbai Store,Mumbai,Maharashtra,Anil
+1009,2026-07-05,C009,Deepak Yadav,P109,USB Drive,Accessories,10,800,100,7900,Cash,S005,Delhi Hub,Delhi,Delhi,Kiran
+1010,2026-07-05,C010,Swathi Nair,P110,Smart Watch,Electronics,1,15000,1500,13500,UPI,S005,Delhi Hub,Delhi,Delhi,Suresh
+1011,2026-07-06,C011,Vikram Rao,P101,Laptop,Electronics,1,65000,4000,61000,Credit Card,S001,Hyderabad Central,Hyderabad,Telangana,Ravi
+1012,2026-07-06,C012,Harsha Patel,P105,Monitor,Electronics,2,18000,1500,34500,Debit Card,S003,Chennai Plaza,Chennai,Tamil Nadu,Deepak
+1013,2026-07-07,C013,Nisha Gupta,P108,Tablet,Electronics,1,18000,1000,17000,UPI,S004,Mumbai Store,Mumbai,Maharashtra,Ramesh
+1014,2026-07-07,C014,Arjun Reddy,P109,USB Drive,Accessories,15,800,300,11700,Cash,S001,Hyderabad Central,Hyderabad,Telangana,Ajith
+1015,2026-07-08,C015,Pooja Sharma,P102,Mobile,Electronics,1,25000,1000,24000,Credit Card,S005,Delhi Hub,Delhi,Delhi,Kiran
